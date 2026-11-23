@@ -213,4 +213,4 @@ Thus, To develop a convolutional deep neural network (CNN) for image classificat
 
 
 ## RESULT
-Include your result here
+Thus, To develop a convolutional deep neural network (CNN) for image classification and to verify the response for new images is executed and verified successfully.
