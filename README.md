@@ -208,8 +208,7 @@ Include confusion matrix here
 <img width="1027" height="771" alt="image" src="https://github.com/user-attachments/assets/7bb962e6-d057-4366-8872-d67ef8bbf9b0" />
 
 ### New Sample Data Prediction
-Include your sample input and output here
-
+Thus, To develop a convolutional deep neural network (CNN) for image classification and to verify the response for new images is executed and verified successfully.
 <img width="908" height="696" alt="image" src="https://github.com/user-attachments/assets/0233a8a8-c0cb-448a-9ffd-357c299f40a4" />
 
 
